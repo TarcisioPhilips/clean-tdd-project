@@ -1,6 +1,5 @@
-function teste (): number {
-    return 1 
+function teste (): Object {
+  return { a: 1 }
 }
 
 teste()
-
